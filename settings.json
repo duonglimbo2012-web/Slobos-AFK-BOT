@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WAS_KinZa.aternos.me:30535",
+    "ip": "WAS_KinZa.aternos.me",
     "port": 30535,
     "version": "1.21.1"
   },
